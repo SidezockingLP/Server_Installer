@@ -1,7 +1,7 @@
 SidezockingLP
 Jonas
 3933
-localhost
+192.168.178.35
 C:/Server_Manager/test.png
 SidezockingLP.de@gmx.de
 ---
@@ -12,9 +12,20 @@ SidezockingLP.de@gmx.de
 TheMatchGamer
 Basti
 lol
-localhost
+192.168.178.76
 C:/Server_Manager/test.png
 Basti! gmax.de
+---
+---
+---
+---
+---
+Testnutzer
+Testuser
+123
+192.168.178.53
+C:/Server_Manager/test.png
+Testuser@gmx.de
 ---
 ---
 ---

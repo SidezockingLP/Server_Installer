@@ -1,7 +1,7 @@
 SidezockingLP
 Jonas
 3933
-192.168.178.35
+77.189.214.44
 C:/Server_Manager/test.png
 SidezockingLP.de@gmx.de
 ---

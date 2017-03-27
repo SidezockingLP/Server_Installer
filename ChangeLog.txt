@@ -1,6 +1,26 @@
 --Change Log--
 
-Realease Buildbeta 3 Vs 3.3.0.513
+Realease testbeta 2.6 Vs 1.2.6.125
++ Testergebnisse + Bug Fixes
++ Updater Überarbeitung
++ Serverinterface Funktionen Überarbeitung
++ Grafikverbesserungen
++ Updatesystem im Programm
+
+Realease testbeta 2.5 Vs 1.2.5.100
++ Testergebnisse + Bug Fixes
++ Updater
++ Sicherung des Programmes gegen viren
+
+Realease testbeta 2.4 Vs 1.2.4.245
++ Testergebnisse + Bug Fixes
++ Überarbeitung Forum
+
+Realease testbeta 2.4 Vs 1.2.4.125
++ Testergebnisse + Bug Fixes
++ Einstellungen Asulesen Überarbeitung
+
+Realease Buildbeta 1.2 Vs 1.1.2.513
 + Loadingscreen
 + Sichere registermöglichkeiten
 + Einstellungen Speichern editor
@@ -8,7 +28,7 @@ Realease Buildbeta 3 Vs 3.3.0.513
 + Grafiküberarbeitungen
 + Automatische Veröffentlichungen
 
-Realease Buildbeta 2.1 Vs 2.1.0.65 
+Realease Buildbeta 1.0 Vs 1.1.0.65 
 
 + Mc-Community Forum
 +Server Einstellungen Editor

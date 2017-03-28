@@ -7,29 +7,41 @@ WICHTIG!: BITTE LESE DIESE LIZENS GUT DURCH BEFOR DU DIESES PROGRAMM BENUTZT.
 Diese Lizens Zustimmung (EULA) ist die legale zustimmung zwischen dir und SidezockingLP für den Server_Manager.Beim Installieren, Kopieren oder anderweitiges nutzen der Software stimmst du zu dich an die Regeln der EULA zu binden. 
 Wenn du der EULA nicht zustimmst ist es dir Untersagt das Programm zu Installieren und zu Nutzen.
 
-2. Vervielfältigung
+2. SICHERHEIT
+
+Der Herausgeber versichert dass das programm kostenfrei und viren-frei ist! Achte daher darauf dass das von die gedownloadede Programm eine Offiziell/Orginale herausgegebene Version ist und keine änderung durch dritte enthält!
+
+3. Vervielfältigung
 
 Dieses Programm wird als Freeware verbreitet und ist für Private und geschäftliche Nutzung freigegeben. Dir ist es NICHT erlaubt änderungen am Programm vorzunehmen (Auser nach Rücksprache mit dem Developer und schriftlicher Bestätigung)
 Das Programm darf auf jeder website oder jeder anderen weiße als Freeware Vervielfältigt werden, wenn der Name und YT-Channel Link der Entwickler angegeben ist!  
 
-3. BENUTZER ZUSTIMMUNG
+4. BENUTZER ZUSTIMMUNG
 
-3.1 Installation und Benutzung
+4.1 Installation und Benutzung
 
-Du darfst unbegrenzt Kopien unserer Software verwenden oder Installieren
+Du darfst unbegrenzt Kopien der Software verwenden oder Installieren
 
-3.2 Eingeschränkte Verwendung
+4.2 Eingeschränkte Verwendung
 
 Achte darauf dass jede Kopie eine richtige und volle Kopie des Programmes ist; Verwende beim kopieren alle Copyright hinweise und Notizen; Lege bei jeder kopierten Version unsere EULA bei; 
 Das Programm darf in jedem anderen Kostenlosen Packet enthalten sein
 
-3.3 Copyright 
+4.3 Copyright 
 
 Du darfst dich nicht als Programm-Entwickler ausgeben; Verändern oder Umschreiben des Programmes ist dir nicht gestattet. 
 
-4. Garantie
+5. DATENSCHUTZ/GARANTIE/HAFTUNG
 
-Der Autor dieser Softwear giebt keine garantie auf das Programmes. Der Autor dieses Programms übernimmt keine Haftung bei problemen, störungen, oder anderen Informationen!
+5.1 Datenschutz
+Forum: Alle daten die beim einloggen und verwenden des Forums gesammelt werden, wie z.b die persönliche E-Mail adresse, werden nicht an dritte weitergegeben und in der Datenbank durch bit-Verschlüsselungen vor Hacker/Angriffen geschützt!
+FTP/SFTP Daten: Daten die wärend der Programm-Laufzeit durch das einloggen an FTP/SFTP- Servern verwendet werden werden nicht gespeichert oder weitergesendet!
+
+Durch viele sicherungen wird probiert die eingegebenen daten zu sichern! Dennoch kann es in ausnahmefällen auch zu profissionelleren Angriffen kommen, wie z.b Brute-force Angriffen! Aus diesem Grund kann der Entwickler leider keine Haftung für den Datenschutz und die Sicherung der daten übernehmen!
+
+5.2 Garantie bei Störungen
+
+Das Programm wird duch den Entwickler vor jeder Veröffentlichung auf Viren und mögliche schäden am PC überprüft! Dennoch kann der Autor dieses Programmes leider keine Garantie geben und keine Haftung bei problemen, störungen, oder anderen Informationen geben!
 
 Entwicklung
 

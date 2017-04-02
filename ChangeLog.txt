@@ -1,9 +1,15 @@
 --Change Log--
 
+Realease Beta 2.7 Vs 1.2.7.255
++ Testergebnisse + Bug Fixes
++ Updater Ãœberarbeitung
++ Grafikverbesserungen
++ News System
+
 Realease testbeta 2.6 Vs 1.2.6.125
 + Testergebnisse + Bug Fixes
-+ Updater Überarbeitung
-+ Serverinterface Funktionen Überarbeitung
++ Updater Ãœberarbeitung
++ Serverinterface Funktionen Ãœberarbeitung
 + Grafikverbesserungen
 + Updatesystem im Programm
 
@@ -14,26 +20,26 @@ Realease testbeta 2.5 Vs 1.2.5.100
 
 Realease testbeta 2.4 Vs 1.2.4.245
 + Testergebnisse + Bug Fixes
-+ Überarbeitung Forum
++ Ãœberarbeitung Forum
 
 Realease testbeta 2.4 Vs 1.2.4.125
 + Testergebnisse + Bug Fixes
-+ Einstellungen Asulesen Überarbeitung
++ Einstellungen Asulesen Ãœberarbeitung
 
 Realease Buildbeta 1.2 Vs 1.1.2.513
 + Loadingscreen
-+ Sichere registermöglichkeiten
++ Sichere registermÃ¶glichkeiten
 + Einstellungen Speichern editor
 + Laufscreen + News + Infos Tag
-+ Grafiküberarbeitungen
-+ Automatische Veröffentlichungen
++ GrafikÃ¼berarbeitungen
++ Automatische VerÃ¶ffentlichungen
 
 Realease Buildbeta 1.0 Vs 1.1.0.65 
 
 + Mc-Community Forum
 +Server Einstellungen Editor
-+ Grafiküberarbeitungen
-+ Server Veröffentlichungen Editor
++ GrafikÃ¼berarbeitungen
++ Server VerÃ¶ffentlichungen Editor
 
 Realease Buildbeta1   Vs.1.1.0.15
 

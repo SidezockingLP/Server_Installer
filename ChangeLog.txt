@@ -5,10 +5,11 @@ Realease Beta 2.9 Vs 1.2.9.102
 + Server Datenbanken 
 + Offlinepacket
 
-Realease Beta 2.8 Vs 1.2.8.255
+Realease Beta 2.8 Vs 1.2.8.212
 + Serverinterface im Serverordner + Destop
 + Automatisch Serverfehlersuche 
 
+Realease Beta 2.7 Vs 1.2.7.255
 + Testergebnisse + Bug Fixes
 + Updater Überarbeitung
 + Grafikverbesserungen

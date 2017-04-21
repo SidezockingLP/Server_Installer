@@ -1,6 +1,13 @@
 --Change Log--
+Realease Beta 2.9 Vs 1.2.9.255
++ Automatisch Serverfehlersuche Verbessert
++ ForgeServer Fix + Startscripts
++ Server Datenbanken 
 
-Realease Beta 2.7 Vs 1.2.7.255
+Realease Beta 2.8 Vs 1.2.8.255
++ Serverinterface im Serverordner + Destop
++ Automatisch Serverfehlersuche 
+
 + Testergebnisse + Bug Fixes
 + Updater Überarbeitung
 + Grafikverbesserungen

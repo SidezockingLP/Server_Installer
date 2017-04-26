@@ -1,3 +1,13 @@
-PermissionsEX
-BungeeTabListPlus-2.5.4.jar
-BedwarsRel.jar
+PermissionsEx.jar
+AntiCheatPlus.jar
+ChatEx.jar
+ColoredSigns.jar
+EssentialsX.jar
+Heads.jar
+LWC.jar
+Multiverse-Core.jar
+TitleManager-1.5.12.jar
+Vault.jar
+Vault.jar
+worldedit.jar
+worldguard.jar

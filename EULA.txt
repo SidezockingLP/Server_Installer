@@ -4,17 +4,29 @@ WICHTIG!: BITTE LESE DIESE LIZENS GUT DURCH BEFOR DU DIESES PROGRAMM BENUTZT.
 
 1. LICENSE
 
-Diese Lizens Zustimmung (EULA) ist die legale Zustimmung zwischen dir und SidezockingLP für den Server_Manager.Beim installieren, kopieren oder anderweitiges nutzen der Software stimmst du zu dich an die Regeln der EULA zu binden. 
-Wenn du der EULA nicht zustimmst ist es dir untersagt das Programm zu installieren und zu mutzen.
+Diese Lizens Zustimmung (EULA) ist die legale Zustimmung zwischen dir 
+und SidezockingLP fÃ¼r den Server_Manager.Beim installieren, 
+kopieren oder anderweitiges nutzen der Software stimmst du 
+zu dich an die Regeln der EULA zu binden. 
+Wenn du der EULA nicht zustimmst ist es dir untersagt 
+das Programm zu installieren und zu mutzen.
 
 2. SICHERHEIT
 
-Der Herausgeber versichert dass das Programm kostenfrei und viren-frei ist! Achte daher darauf, dass das von die gedownloadede Programm eine offiziell/orginale herausgegebene Version ist und keine Änderung durch dritte enthält!
+Der Herausgeber versichert dass das Programm kostenfrei und
+viren-frei ist! Achte daher darauf, dass das von die 
+gedownloadede Programm eine offiziell/orginale herausgegebene 
+Version ist und keine Ã„nderung durch dritte enthÃ¤lt!
 
-3. Vervielfältigung
+3. VervielfÃ¤ltigung
 
-Dieses Programm wird als Freeware verbreitet und ist für private und geschäftliche Nutzung freigegeben. Dir ist es NICHT erlaubt Änderungen am Programm vorzunehmen (ausser nach Rücksprache mit dem Developer und schriftlicher Bestätigung)
-Das Programm darf auf jeder Website oder jeder anderen Weiße als Freeware vervielfältigt werden, wenn der Name und YT-Channel Link der Entwickler angegeben ist!  
+Dieses Programm wird als Freeware verbreitet und ist fÃ¼r private 
+und geschÃ¤ftliche Nutzung freigegeben. Dir ist es NICHT erlaubt 
+Ã„nderungen am Programm vorzunehmen (ausser nach RÃ¼cksprache
+mit dem Developer und schriftlicher BestÃ¤tigung)
+Das Programm darf auf jeder Website oder jeder anderen WeiÃŸe 
+als Freeware vervielfÃ¤ltigt werden, wenn der Name und YT-Channel 
+Link der Entwickler angegeben ist!  
 
 4. BENUTZER ZUSTIMMUNG
 
@@ -22,26 +34,43 @@ Das Programm darf auf jeder Website oder jeder anderen Weiße als Freeware vervie
 
 Du darfst unbegrenzt kopien der Software verwenden oder installieren
 
-4.2 Eingeschränkte Verwendung
+4.2 EingeschrÃ¤nkte Verwendung
 
-Achte darauf dass jede Kopie eine richtige und volle Kopie des Programmes ist; Verwende beim kopieren alle Copyright Hinweise und Notizen; Lege bei jeder kopierten Version unsere EULA bei; 
+Achte darauf dass jede Kopie eine richtige und volle Kopie des 
+Programmes ist; Verwende beim kopieren alle Copyright Hinweise 
+und Notizen; Lege bei jeder kopierten Version unsere EULA bei; 
 Das Programm darf in jedem anderen kostenlosen Packet enthalten sein
 
 4.3 Copyright 
 
-Du darfst dich nicht als Programm-Entwickler ausgeben; Verändern oder umschreiben des Programmes ist dir nicht gestattet. 
+Du darfst dich nicht als Programm-Entwickler ausgeben; 
+VerÃ¤ndern oder umschreiben des Programmes ist dir nicht gestattet. 
 
 5. DATENSCHUTZ/GARANTIE/HAFTUNG
 
 5.1 Datenschutz
-Forum: Alle Daten die beim einloggen und verwenden des Forums gesammelt werden, wie z.b die persönliche E-Mail Adresse, werden nicht an dritte weitergegeben und in der Datenbank durch bit-Verschlüsselungen vor Hacker/Angriffen geschützt!
-FTP/SFTP Daten: Daten die während der Programm-Laufzeit durch das Einloggen an FTP/SFTP- Servern verwendet werden, werden nicht gespeichert oder weitergesendet!
+Forum: Alle Daten die beim einloggen und verwenden des Forums
+gesammelt werden, wie z.b die persÃ¶nliche E-Mail Adresse,
+werden nicht an dritte weitergegeben und in der Datenbank 
+durch bit-VerschlÃ¼sselungen vor Hacker/Angriffen geschÃ¼tzt!
+FTP/SFTP Daten: Daten die wÃ¤hrend der Programm-Laufzeit durch 
+das Einloggen an FTP/SFTP- Servern verwendet werden,
+werden nicht gespeichert oder weitergesendet!
 
-Durch viele Systmeme wird versucht sicherzustellen, die eingegebenen Daten zu sichern! Dennoch kann es in Ausnahmefällen auch zu professionellen Angriffen kommen, wie z.B. Brute-force Angriffen! Aus diesem Grund kann der Entwickler leider keine Haftung für den Datenschutz und die Sicherung der Daten übernehmen!
+Durch viele Systmeme wird versucht sicherzustellen, 
+die eingegebenen Daten zu sichern! Dennoch kann es in 
+AusnahmefÃ¤llen auch zu professionellen Angriffen kommen, 
+wie z.B. Brute-force Angriffen! Aus diesem Grund kann der 
+Entwickler leider keine Haftung fÃ¼r den Datenschutz 
+und die Sicherung der Daten Ã¼bernehmen!
 
-5.2 Garantie bei Störungen
+5.2 Garantie bei StÃ¶rungen
 
-Das Programm wird duch den Entwickler vor jeder Veröffentlichung auf Viren und mögliche Schäden am PC überprüft! Dennoch kann der Autor dieses Programmes leider keine Garantie geben und keine Haftung bei Problemen, Störungen oder anderen Informationen geben!
+Das Programm wird duch den Entwickler vor jeder VerÃ¶ffentlichung 
+auf Viren und mÃ¶gliche SchÃ¤den am PC Ã¼berprÃ¼ft! Dennoch 
+kann der Autor dieses Programmes leider keine Garantie geben 
+und keine Haftung bei Problemen, StÃ¶rungen oder anderen 
+Informationen geben!
 
 Entwicklung
 
@@ -49,4 +78,4 @@ SidezockingLP
 E-Mail: SidezockingLP@gmail.com
 Kanal: https://www.youtube.com/channel/UCM8KoUmfoVg3VEAF2BUNq2A
 
-Angaben können nicht mehr aktuell sein! Deshalb keine Gewähr!
+Angaben kÃ¶nnen nicht mehr aktuell sein! Deshalb keine GewÃ¤hr!

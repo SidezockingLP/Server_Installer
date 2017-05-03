@@ -1,0 +1,3 @@
+3.5.2017~Internetseite Update~Unsere Internetseite wurde erweitert! Geändert wurde die seite News/Aktuelles ~und ein Livecounter im SM Download-bereich wurde hinzugefügt
+|3.5.2017~Server_Manager Installer~Der Neue Installer ist da!!! In Sekunden aus dem Internet heruntergeladen. ~Wähle deine Version + Komponenten selbst aus und Installiere ~alles Local auf dem Computer!
+|2.5.2017~Server_Manager Version 1.2.10~Die Neue Version des Server_Manager ist da!!! Wichtigste Änderungen: ~Java prüfung~Plugins beim erstellen automatisch vorinstallieren~Tutorial zum serverstarten~Grafikverbesserungen

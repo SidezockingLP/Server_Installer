@@ -1,4 +1,18 @@
---Change Log--
+################-----Change Log Server_Manager Programm----#################
+Realease 2.Beta 2.10 Vs 1.2.10.290(2)
++ Neues Table-Design im Startmenü
+
+Realease Beta 2.10 Vs 1.2.10.290
++ speichergrößeanzeige beim Offlinepacketinstaller
++ Mehr Erklärungen und Hilfestellungen beim Server-Erstellen
++ Plugins zum Vorinstallieren beim Server-Erstellen   
++ Überwachung auch bei Spigot und Forge-Servern
++ Abschaffen/Grafisches ersetzen der Firstart.bat
++ Minecraft Befehlesammlung
++ Java Überprüfung
++ Server Starttutorial
+- Viele kleine bug-Fixes und Änderungen
+
 Realease Beta 2.9 Vs 1.2.9.102
 + Automatisch Serverfehlersuche Verbessert
 + ForgeServer Fix + Startscripts
@@ -53,3 +67,16 @@ Realease Buildbeta 1.0 Vs 1.1.0.65
 Realease Buildbeta1   Vs.1.1.0.15
 
 +Erster Realease 
+
+################-----Change Log Server_Manager Installer----#################
+Version 1.
++Erster Realease 
+Version 1.1
++ Zugriff auf Server über PHP
++ Statusanzeige
+Version 2.
++ Funktionen der Server_Managers an und abwählen
+################-----Change Log Server Fehlersuche----#################
+Version 1.0
++Erster Realease 
+

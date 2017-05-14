@@ -1,4 +1,4 @@
-NEWS 14.5.2017~Neuer Installer, Waehle die Funktionen die dein Server_Manager haben soll
-NEWS 3.5.2017~Internetseite Update~Unsere Internetseite wurde erweitert! Geeandert wurde die seite News/Aktuelles und ein Livecounter im SM Download-bereich wurde hinzugefügt
+|NEWS 14.5.2017~Neuer Installer, Waehle die Funktionen die dein Server_Manager haben soll
+|NEWS 3.5.2017~Internetseite Update~Unsere Internetseite wurde erweitert! Geeandert wurde die seite News/Aktuelles und ein Livecounter im SM Download-bereich wurde hinzugefügt
 |NEWS 3.5.2017~Server_Manager Installer~Der Neue Installer ist da!!! In Sekunden aus dem Internet heruntergeladen. Waehle deine Version + Komponenten selbst aus und Installiere alles Local auf dem Computer!
 |NEWS 2.5.2017~Server_Manager Version 1.2.10~Die Neue Version des Server_Manager ist da!!! Wichtigste Aenderungen: -Java pruefung    -Plugins beim erstellen automatisch vorinstallieren    -Tutorial zum serverstarten   -Grafikverbesserungen

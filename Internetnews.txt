@@ -1,6 +1,7 @@
-NEWS 28.5.2017~Internetseite umfassendes Update~In einem umfassenden Update unserer Website giebt es nun neue Tools zum downloaden und das ServerPool system nun auch in der Internetseite! Klickt euch einfach mal durch :)
+NEWS 18.6.2017~Server_Manager 2.0 gigantsiches Update~Momentan arbeitet das Server_Manager Team am bisher größten Update des Minecraft Server Tools. Im Server_Manager 2.0 erwarten euch zahlreiche neue Funktionen(z.b Bungeecord Netzwerke, IP zuteilungen, Vorgefertigte Server) und grafikverbesserungen, sowie neue Komponenten, wie ein Backup_Manager für das sichern eueres Servers und ein PermissionsEX einrichtungstool. Realeased wird das Update vorausichtlich nach allen Test und bugfixes in 2Wochen!
+|NEWS 28.5.2017~Internetseite umfassendes Update~In einem umfassenden Update unserer Website giebt es nun neue Tools zum downloaden und das ServerPool system nun auch in der Internetseite! Klickt euch einfach mal durch :)
 |NEWS 22.5.2017~Server_Manager Update 1.2.11~Die Neue Version des Server_Manager ist da!!! Wichtigste Aenderungen: Server-Pool zum bekommen eines online 24/7 Servers + Neuer Updater + Forumupdate
 |NEWS 14.5.2017~Neuer Installer fuer den Server_Manager~Neuer Installer, Waehle die Funktionen die dein Server_Manager haben soll
 |NEWS 3.5.2017~Internetseite Update~Unsere Internetseite wurde erweitert! Geeandert wurde die seite News/Aktuelles und ein Livecounter im SM Download-bereich wurde hinzugefuegt
-|NEWS 3.5.2017~Server_Manager Installer~Der Neue Installer ist da!!! In Sekunden aus dem Internet heruntergeladen. Waehle deine Version + Komponenten selbst aus und Installiere alles Local auf dem Computer!
+
 

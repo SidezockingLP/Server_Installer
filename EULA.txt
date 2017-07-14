@@ -2,12 +2,13 @@
 
 Aktualisiert am 14. Juli 2017 03:21
 
-WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH BEVOR SIE DIESES PROGRAMM BENUTZTEN!
+WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH BEVOR SIE DIESES
+PROGRAMM BENUTZTEN!
 
 1. </LIZENZ>
 
 Diese Lizensbestimmung (EULA) ist die legale Zustimmung zwischen Ihnen
-und SidezockingLP für das "Server_Manager" Programm. Beim Installieren,
+und SidezockingLP fuer das "Server_Manager" Programm. Beim Installieren,
 Kopieren oder anderweitigem nutzen der Software stimmen Sie
 zu, sich an die Regeln der EULA zu binden.
 Sollten Sie der EULA nicht zustimmen, so ist es Ihnen untersagt
@@ -18,76 +19,79 @@ das Programm zu installieren und zu nutzen.
 Der Herausgeber versichert, dass das Programm kosten- und
 viren-frei ist! Achten Sie daher darauf, dass das von Ihnen
 heruntergeladene Programm eine offizielle/originale herausgegebene
-Version ist und keine Änderungen durch Dritte enthält!
+Version ist und keine Aenderungen durch Dritte enthaelt!
 
-3. </VERVIELFÄLTIGUNG>
+3. </VERVIELFAELTIGUNG>
 
-Dieses Programm wird als Freeware verbreitet und ist für private
-und geschäftliche Nutzung freigegeben. Ihnen ist es NICHT gestattet
-Änderungen am Programm vorzunehmen (ausser nach Rücksprache
-mit dem Entwickler und durch eine schriftlicher Bestätigung).
+Dieses Programm wird als Freeware verbreitet und ist fuer private
+und geschaeftliche Nutzung freigegeben. Ihnen ist es NICHT gestattet
+Aenderungen am Programm vorzunehmen (ausser nach Ruecksprache
+mit dem Entwickler und durch eine schriftlicher Bestaetigung).
 Das Programm darf auf jeder Webseite, oder auf jede andere Weise
-als Freeware vervielfältigt werden, wenn der Name und YouTube-Kanal/
+als Freeware vervielfaeltigt werden, wenn der Name und YouTube-Kanal/
 Link des/der Entwickler angegeben ist/sind!
 
 4. </BENUTZERZUSTIMMUNG>
 
 4.1 </INSTALLATION UND BENUTZUNG>
 
-Sie dürfen unbegrenzt Kopien der Software verwenden und installieren.
+Sie duerfen unbegrenzt Kopien der Software verwenden und installieren.
 
-4.2 </EINGESCHRÄNKTE VERWENDUNG>
+4.2 </EINGESCHRAENKTE VERWENDUNG>
 
-Achten Sie darauf, dass jede Kopie eine offizielle und vollständige Kopie des
+Achten Sie darauf, dass jede Kopie eine offizielle und vollstaendige Kopie des
 Programmes ist; Verwenden Sie beim Kopieren alle Copyright Hinweise
 und Notizen; Legen Sie bei jeder kopierten Version unsere EULA bei;
 Das Programm darf in jedem anderen kostenlosen Paket enthalten sein.
 
 4.3 </COPYRIGHT>
 
-Sie dürfen sich nicht als Entwickler des Programms ausgeben;
-Das Verändern oder Umschreiben des Programmes ist Ihnen nicht gestattet.
+Sie duerfen sich nicht als Entwickler des Programms ausgeben;
+Das Veraendern oder Umschreiben des Programmes ist Ihnen nicht gestattet.
 
 5. </DATENSCHUTZ//GARANTIE//HAFTUNG>
 
 5.1 </DATENSCHUTZ>
 -Forum: Alle Daten die beim Einloggen und Verwenden des Forums
-gesammelt werden, wie z.b die persönliche E-Mail Adresse,
+gesammelt werden, wie z.b die persoenliche E-Mail Adresse,
 werden nicht an Dritte weitergegeben und in der Datenbank
-durch bit-Verschlüsselungen vor unerlaubten Angriffen geschützt!
--FTP/SFTP Daten: Daten die während der Laufzeit des Programmes durch
+durch bit-Verschluesselungen vor unerlaubten Angriffen geschuetzt!
+-FTP/SFTP Daten: Daten die waehrend der Laufzeit des Programmes durch
 das Einloggen an FTP/SFTP-Servern verwendet werden,
 werden nicht gespeichert oder weitergegeben!
 
 Durch viele Systeme wird versucht, Ihre eingegebenen Daten zu sichern
 und sicher zu stellen! Dennoch kann es in
-Ausnahmefällen auch zu professionelleren Angriffen kommen,
+Ausnahmefaellen auch zu professionelleren Angriffen kommen,
 wie z.B. "Brute-Force" Angriffen! Aus diesem Grund kann der
-Entwickler keine Haftung für den Datenschutz
-und die Sicherung der Daten übernehmen!
+Entwickler keine Haftung fuer den Datenschutz
+und die Sicherung der Daten uebernehmen!
 
-5.2 </GARANTIE BEI STÖRUNGEN>
+5.2 </GARANTIE BEI STOERUNGEN>
 
-Das Programm wird duch den/die Entwickler vor jeder Veröffentlichung
-auf Viren und mögliche Schäden am PC überprüft! Dennoch
+Das Programm wird duch den/die Entwickler vor jeder Veroeffentlichung
+auf Viren und moegliche Schaeden am PC ueberprueft! Dennoch
 kann der Entwickler dieses Programmes leider keine Garantie,
-sowie keine Haftung bei Problemen, Störungen oder anderen
+sowie keine Haftung bei Problemen, Stoerungen oder anderen
 Informationen bereitstellen!
 
 6. </UPDATES>
 
 WIR STELLEN IHNEN EINE KOPIE UNSERES SPIELS
-"WIE BESEHEN" (OHNE MÄNGELGEWÄHR) ZUR VERFÜGUNG. UPDATES WERDEN
-EBENFALLS "WIE BESEHEN" ZUR VERFÜGUNG GESTELLT. DAS HEIßT, WIR GEBEN IHNEN
-GEGENÜBER KEINE ZUSICHERUNGEN HINSICHTLICH DES STANDARDS ODER DER QUALITÄT
-UNSERES SPIELS ODER DER UNTERBRECHUNGSFREIEN NUTZUNG ODER FEHLERFREIHEIT DES SPIELS AB.
-WIR HAFTEN NICHT FÜR VERLUSTE ODER SCHÄDEN, DIE DADURCH ENTSTEHEN KÖNNEN.
-SIE TRAGEN DAS GESAMTE RISIKO FÜR DIE QUALITÄT UND LEISTUNG DES SPIELS.
-SIE MÜSSEN AKZEPTIEREN, DASS UNSER TEAM UPDATES DEUTLICH VOR IHREM ABSCHLUSS HERAUSGEBEN
-UND DAHER MÖGLICHERWEISE (UND OFTMALS TATSÄCHLICH) FEHLER AUFWEISEN.
-DENNOCH GEBEN WIR DIESE VERSIONEN LIEBER FRÜHZEITIG HERAUS ALS SIE WARTEN ZU LASSEN,
-BIS WIR ÜBER EINE FEHLERFREIE VERSION VERFÜGEN. WIR VERFÜGEN ÜBER EINE WEBSITE,
-AUF DER SIE UNS ÜBER POTENZIELLE FEHLER INFORMIEREN KÖNNEN.
+"WIE BESEHEN" (OHNE MAENGELGEWAEHR) ZUR VERFUEGUNG. UPDATES WERDEN
+EBENFALLS "WIE BESEHEN" ZUR VERFUEGUNG GESTELLT. DAS HEISST, WIR GEBEN IHNEN
+GEGENUEBER KEINE ZUSICHERUNGEN HINSICHTLICH DES STANDARDS ODER DER
+QUALITAET UNSERES SPIELS ODER DER UNTERBRECHUNGSFREIEN NUTZUNG
+ODER FEHLERFREIHEIT DES SPIELS AB.WIR HAFTEN NICHT FUER
+VERLUSTE ODER SCHAEDEN, DIE DADURCH ENTSTEHEN KOENNEN. SIE TRAGEN
+DAS GESAMTE RISIKO FUER DIE QUALITAET UND LEISTUNG DES SPIELS.
+SIE MUESSEN AKZEPTIEREN, DASS UNSER TEAM UPDATES DEUTLICH VOR
+IHREM ABSCHLUSS HERAUSGEBENUND DAHER MOEGLICHERWEISE
+(UND OFTMALS TATSAECHLICH) FEHLER AUFWEISEN. DENNOCH GEBEN
+WIR DIESE VERSIONEN LIEBER FRUEHZEITIG HERAUS ALS SIE WARTEN ZU LASSEN,
+BIS WIR UEBER EINE FEHLERFREIE VERSION VERFUEGEN.
+WIR VERFUEGEN UEBER EINE WEBSITE,
+AUF DER SIE UNS UEBER POTENZIELLE FEHLER INFORMIEREN KOENNEN.
 
 </ENTWICKLUNG>
 

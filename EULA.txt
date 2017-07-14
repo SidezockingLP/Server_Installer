@@ -1,81 +1,97 @@
-Server_Manager END USER LICENSE AGREEMENT 
+</---Server_Manager-Endbenutzer-Lizensvertrag--->
 
-WICHTIG!: BITTE LESE DIESE LIZENS GUT DURCH BEFOR DU DIESES PROGRAMM BENUTZT.
+Aktualisiert am 14. Juli 2017 03:21
 
-1. LICENSE
+WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH BEVOR SIE DIESES PROGRAMM BENUTZTEN!
 
-Diese Lizens Zustimmung (EULA) ist die legale Zustimmung zwischen dir 
-und SidezockingLP fÃ¼r den Server_Manager.Beim installieren, 
-kopieren oder anderweitiges nutzen der Software stimmst du 
-zu dich an die Regeln der EULA zu binden. 
-Wenn du der EULA nicht zustimmst ist es dir untersagt 
-das Programm zu installieren und zu mutzen.
+1. </LIZENZ>
 
-2. SICHERHEIT
+Diese Lizensbestimmung (EULA) ist die legale Zustimmung zwischen Ihnen
+und SidezockingLP für das "Server_Manager" Programm. Beim Installieren,
+Kopieren oder anderweitigem nutzen der Software stimmen Sie
+zu, sich an die Regeln der EULA zu binden.
+Sollten Sie der EULA nicht zustimmen, so ist es Ihnen untersagt
+das Programm zu installieren und zu nutzen.
 
-Der Herausgeber versichert dass das Programm kostenfrei und
-viren-frei ist! Achte daher darauf, dass das von die 
-gedownloadede Programm eine offiziell/orginale herausgegebene 
-Version ist und keine Ã„nderung durch dritte enthÃ¤lt!
+2. </SICHERHEIT>
 
-3. VervielfÃ¤ltigung
+Der Herausgeber versichert, dass das Programm kosten- und
+viren-frei ist! Achten Sie daher darauf, dass das von Ihnen
+heruntergeladene Programm eine offizielle/originale herausgegebene
+Version ist und keine Änderungen durch Dritte enthält!
 
-Dieses Programm wird als Freeware verbreitet und ist fÃ¼r private 
-und geschÃ¤ftliche Nutzung freigegeben. Dir ist es NICHT erlaubt 
-Ã„nderungen am Programm vorzunehmen (ausser nach RÃ¼cksprache
-mit dem Developer und schriftlicher BestÃ¤tigung)
-Das Programm darf auf jeder Website oder jeder anderen WeiÃŸe 
-als Freeware vervielfÃ¤ltigt werden, wenn der Name und YT-Channel 
-Link der Entwickler angegeben ist!  
+3. </VERVIELFÄLTIGUNG>
 
-4. BENUTZER ZUSTIMMUNG
+Dieses Programm wird als Freeware verbreitet und ist für private
+und geschäftliche Nutzung freigegeben. Ihnen ist es NICHT gestattet
+Änderungen am Programm vorzunehmen (ausser nach Rücksprache
+mit dem Entwickler und durch eine schriftlicher Bestätigung).
+Das Programm darf auf jeder Webseite, oder auf jede andere Weise
+als Freeware vervielfältigt werden, wenn der Name und YouTube-Kanal/
+Link des/der Entwickler angegeben ist/sind!
 
-4.1 Installation und Benutzung
+4. </BENUTZERZUSTIMMUNG>
 
-Du darfst unbegrenzt kopien der Software verwenden oder installieren
+4.1 </INSTALLATION UND BENUTZUNG>
 
-4.2 EingeschrÃ¤nkte Verwendung
+Sie dürfen unbegrenzt Kopien der Software verwenden und installieren.
 
-Achte darauf dass jede Kopie eine richtige und volle Kopie des 
-Programmes ist; Verwende beim kopieren alle Copyright Hinweise 
-und Notizen; Lege bei jeder kopierten Version unsere EULA bei; 
-Das Programm darf in jedem anderen kostenlosen Packet enthalten sein
+4.2 </EINGESCHRÄNKTE VERWENDUNG>
 
-4.3 Copyright 
+Achten Sie darauf, dass jede Kopie eine offizielle und vollständige Kopie des
+Programmes ist; Verwenden Sie beim Kopieren alle Copyright Hinweise
+und Notizen; Legen Sie bei jeder kopierten Version unsere EULA bei;
+Das Programm darf in jedem anderen kostenlosen Paket enthalten sein.
 
-Du darfst dich nicht als Programm-Entwickler ausgeben; 
-VerÃ¤ndern oder umschreiben des Programmes ist dir nicht gestattet. 
+4.3 </COPYRIGHT>
 
-5. DATENSCHUTZ/GARANTIE/HAFTUNG
+Sie dürfen sich nicht als Entwickler des Programms ausgeben;
+Das Verändern oder Umschreiben des Programmes ist Ihnen nicht gestattet.
 
-5.1 Datenschutz
-Forum: Alle Daten die beim einloggen und verwenden des Forums
-gesammelt werden, wie z.b die persÃ¶nliche E-Mail Adresse,
-werden nicht an dritte weitergegeben und in der Datenbank 
-durch bit-VerschlÃ¼sselungen vor Hacker/Angriffen geschÃ¼tzt!
-FTP/SFTP Daten: Daten die wÃ¤hrend der Programm-Laufzeit durch 
-das Einloggen an FTP/SFTP- Servern verwendet werden,
-werden nicht gespeichert oder weitergesendet!
+5. </DATENSCHUTZ//GARANTIE//HAFTUNG>
 
-Durch viele Systmeme wird versucht sicherzustellen, 
-die eingegebenen Daten zu sichern! Dennoch kann es in 
-AusnahmefÃ¤llen auch zu professionellen Angriffen kommen, 
-wie z.B. Brute-force Angriffen! Aus diesem Grund kann der 
-Entwickler leider keine Haftung fÃ¼r den Datenschutz 
-und die Sicherung der Daten Ã¼bernehmen!
+5.1 </DATENSCHUTZ>
+-Forum: Alle Daten die beim Einloggen und Verwenden des Forums
+gesammelt werden, wie z.b die persönliche E-Mail Adresse,
+werden nicht an Dritte weitergegeben und in der Datenbank
+durch bit-Verschlüsselungen vor unerlaubten Angriffen geschützt!
+-FTP/SFTP Daten: Daten die während der Laufzeit des Programmes durch
+das Einloggen an FTP/SFTP-Servern verwendet werden,
+werden nicht gespeichert oder weitergegeben!
 
-5.2 Garantie bei StÃ¶rungen
+Durch viele Systeme wird versucht, Ihre eingegebenen Daten zu sichern
+und sicher zu stellen! Dennoch kann es in
+Ausnahmefällen auch zu professionelleren Angriffen kommen,
+wie z.B. "Brute-Force" Angriffen! Aus diesem Grund kann der
+Entwickler keine Haftung für den Datenschutz
+und die Sicherung der Daten übernehmen!
 
-Das Programm wird duch den Entwickler vor jeder VerÃ¶ffentlichung 
-auf Viren und mÃ¶gliche SchÃ¤den am PC Ã¼berprÃ¼ft! Dennoch 
-kann der Autor dieses Programmes leider keine Garantie geben 
-und keine Haftung bei Problemen, StÃ¶rungen oder anderen 
-Informationen geben!
+5.2 </GARANTIE BEI STÖRUNGEN>
 
-Entwicklung
+Das Programm wird duch den/die Entwickler vor jeder Veröffentlichung
+auf Viren und mögliche Schäden am PC überprüft! Dennoch
+kann der Entwickler dieses Programmes leider keine Garantie,
+sowie keine Haftung bei Problemen, Störungen oder anderen
+Informationen bereitstellen!
+
+6. </UPDATES>
+
+WIR STELLEN IHNEN EINE KOPIE UNSERES SPIELS
+"WIE BESEHEN" (OHNE MÄNGELGEWÄHR) ZUR VERFÜGUNG. UPDATES WERDEN
+EBENFALLS "WIE BESEHEN" ZUR VERFÜGUNG GESTELLT. DAS HEIßT, WIR GEBEN IHNEN
+GEGENÜBER KEINE ZUSICHERUNGEN HINSICHTLICH DES STANDARDS ODER DER QUALITÄT
+UNSERES SPIELS ODER DER UNTERBRECHUNGSFREIEN NUTZUNG ODER FEHLERFREIHEIT DES SPIELS AB.
+WIR HAFTEN NICHT FÜR VERLUSTE ODER SCHÄDEN, DIE DADURCH ENTSTEHEN KÖNNEN.
+SIE TRAGEN DAS GESAMTE RISIKO FÜR DIE QUALITÄT UND LEISTUNG DES SPIELS.
+SIE MÜSSEN AKZEPTIEREN, DASS UNSER TEAM UPDATES DEUTLICH VOR IHREM ABSCHLUSS HERAUSGEBEN
+UND DAHER MÖGLICHERWEISE (UND OFTMALS TATSÄCHLICH) FEHLER AUFWEISEN.
+DENNOCH GEBEN WIR DIESE VERSIONEN LIEBER FRÜHZEITIG HERAUS ALS SIE WARTEN ZU LASSEN,
+BIS WIR ÜBER EINE FEHLERFREIE VERSION VERFÜGEN. WIR VERFÜGEN ÜBER EINE WEBSITE,
+AUF DER SIE UNS ÜBER POTENZIELLE FEHLER INFORMIEREN KÖNNEN.
+
+</ENTWICKLUNG>
 
 SidezockingLP
 E-Mail: SidezockingLP@gmail.com
-Kanal: https://www.youtube.com/channel/UCM8KoUmfoVg3VEAF2BUNq2A
-
-Angaben kÃ¶nnen nicht mehr aktuell sein! Deshalb keine GewÃ¤hr!
+Webseite: http://minecraft-servermanager.sidezockinglp.de
+Youtube-Kanal: https://www.youtube.com/channel/UCM8KoUmfoVg3VEAF2BUNq2A

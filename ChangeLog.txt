@@ -1,8 +1,74 @@
 ################-----Change Log Server_Manager Programm----#################
-Realease 2.Beta 2.10 Vs 1.2.10.290(2)
+Realease Beta Komponente(PermissionsExManager) Vs: 001.000
++ Scheiben von PermissionsEX Rechteeinstellungen
++ YAML Parser
++ Chatformat
++ Einfache Chatformat ansicht
++ Projektformat 
+
+Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.000
++ Stellt Versionen wie 1.12 bereit
+
+Realease Beta Komponente(Fehlersuche) Vs: 001.000
++ Sucht Serverfehlersuche
+
+Realease Beta Komponente(offlinepacket) Vs: 001.000
++ Stellt alle Server auch Offline zur Verfügung
+
+Realease Alpha Komponente(Hamachi) Vs: 001.000
++ stellt ein Hamachi setup bereit
+
+Realease Alpha Komponente(CauldronServer) Vs: 001.000
++ erstelle cauldronServer
+
+Realease Alpha Komponente(SFTPConnector) Vs: 001.000
++ Verbinde dich zu einem Root Server
+
+Realease Alpha Komponente(ForgeModServer) Vs: 001.000
++ ForgeModServer erstellen
+
+Realease Alpha Komponente(Setup_daten) Vs: 001.000
++ Systemdateien
+
+Realease Alpha Komponente(Anwendungserweiterungen) Vs: 001.000
++ Bereitstellen aller Dlls zum reibungslosen starten und stoppen auf jedem System
+
+Realease Alpha Komponente(Backup_Manager) Vs: 001.000
++ Erster Realease
+
+Realease Beta Komponente(IPConnector) Vs: 001.000
++ automatischer Start in CMD
++ Automatisches zuweisen einer IP
+
+Realease StabilTestbeta Komponente(Server_Manager) Vs: 002.000
++ Überarbeitung Forum
++ Überarbeitung Forumseite
++ Überarbeitung Community
++ Überarbeitung Server Interface
++ Überarbeitung FAQ Bereich
++ Überarbeitung FTP Login
++ Locales Speichern von FTP Datein
++ Impotieren einens FTP Servers in das System
++ Bearbeiten der dateien eines FTP Servers
++ Wechselndes Banner
++ Banner bewerbungen
++ teambewerbung
++ MCVersion 1.12
++ Systeminformationen
++ Server_Manager Statistiken
++ Bewertung des Server_Managers
++ Server Templates Installieren
++ Bungeecord Server erstellen und einrichten
++ Spigot Server über Serverinterface startbar
++ Server IP Connector System
++ Backup_Manager Komponente
++ Neuer Updater + Updatesystem
++ Neuer Installer
+
+Realease 2.Beta Komponente(Server_Manager) Vs: 001.011
 + Neues Table-Design im Startmenü
 
-Realease Beta 2.10 Vs 1.2.10.290
+Realease Beta Komponente(Server_Manager) Vs: 001.010
 + speichergrößeanzeige beim Offlinepacketinstaller
 + Mehr Erklärungen und Hilfestellungen beim Server-Erstellen
 + Plugins zum Vorinstallieren beim Server-Erstellen   
@@ -13,43 +79,43 @@ Realease Beta 2.10 Vs 1.2.10.290
 + Server Starttutorial
 - Viele kleine bug-Fixes und Änderungen
 
-Realease Beta 2.9 Vs 1.2.9.102
+Realease Beta Komponente(Server_Manager) Vs: 001.009
 + Automatisch Serverfehlersuche Verbessert
 + ForgeServer Fix + Startscripts
 + Server Datenbanken 
 + Offlinepacket
 
-Realease Beta 2.8 Vs 1.2.8.212
+Realease Beta Komponente(Server_Manager) Vs: 001.008
 + Serverinterface im Serverordner + Destop
 + Automatisch Serverfehlersuche 
 
-Realease Beta 2.7 Vs 1.2.7.255
+Realease Beta Komponente(Server_Manager) Vs: 001.007
 + Testergebnisse + Bug Fixes
 + Updater Überarbeitung
 + Grafikverbesserungen
 + News System
 
-Realease testbeta 2.6 Vs 1.2.6.125
+Realease testbeta Komponente(Server_Manager) Vs: 001.006
 + Testergebnisse + Bug Fixes
 + Updater Überarbeitung
 + Serverinterface Funktionen Überarbeitung
 + Grafikverbesserungen
 + Updatesystem im Programm
 
-Realease testbeta 2.5 Vs 1.2.5.100
+Realease testbeta Komponente(Server_Manager) Vs: 001.005
 + Testergebnisse + Bug Fixes
 + Updater
 + Sicherung des Programmes gegen viren
 
-Realease testbeta 2.4 Vs 1.2.4.245
+Realease testbeta Komponente(Server_Manager) Vs: 001.004
 + Testergebnisse + Bug Fixes
 + Überarbeitung Forum
 
-Realease testbeta 2.4 Vs 1.2.4.125
+Realease testbeta Komponente(Server_Manager) Vs: 001.003
 + Testergebnisse + Bug Fixes
 + Einstellungen Asulesen Überarbeitung
 
-Realease Buildbeta 1.2 Vs 1.1.2.513
+Realease Buildbeta Komponente(Server_Manager) Vs: 001.002
 + Loadingscreen
 + Sichere registermöglichkeiten
 + Einstellungen Speichern editor
@@ -57,26 +123,14 @@ Realease Buildbeta 1.2 Vs 1.1.2.513
 + Grafiküberarbeitungen
 + Automatische Veröffentlichungen
 
-Realease Buildbeta 1.0 Vs 1.1.0.65 
+Realease Buildbeta Komponente(Server_Manager) Vs: 001.001
 
 + Mc-Community Forum
 +Server Einstellungen Editor
 + Grafiküberarbeitungen
 + Server Veröffentlichungen Editor
 
-Realease Buildbeta1   Vs.1.1.0.15
+Realease Buildbeta1 Komponente(Server_Manager) Vs: 001.000
 
-+Erster Realease 
-
-################-----Change Log Server_Manager Installer----#################
-Version 1.
-+Erster Realease 
-Version 1.1
-+ Zugriff auf Server über PHP
-+ Statusanzeige
-Version 2.
-+ Funktionen der Server_Managers an und abwählen
-################-----Change Log Server Fehlersuche----#################
-Version 1.0
 +Erster Realease 
 

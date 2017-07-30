@@ -2,6 +2,7 @@
 Realease Beta Komponente(IPConnector) Vs: 001.002
 + Login am ngrok Netzwerk
 + Bugfixes
+
 Realease Beta Komponente(PermissionsExManager) Vs: 001.000
 + Scheiben von PermissionsEX Rechteeinstellungen
 + YAML Parser

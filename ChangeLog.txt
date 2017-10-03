@@ -1,4 +1,20 @@
 ################-----Change Log Server_Manager Programm----#################
+Realease beta Komponente(Server_Manager) Vs: 002.001
++ Server einstellungen Bugfixes
++ Server Einstellungen Grafik Update
++ Server Einstellungen Funktionen Update
++ Server Icon Bugfixes
++ Forum überarbeitet
++ Neues Login System
++ Kontaktfenster - Schnellkontaktmassager
++ Neue Serverauswahl
++ Bugfixes
++ Serverinterface IP anzeige und Debugsystem
+
+Realease Beta Komponente(IPConnector) Vs: 001.003
++ Neue Benutzerführung
++ Neue Hilfestellungen und Informationsstellen
+
 Realease Beta Komponente(IPConnector) Vs: 001.002
 + Login am ngrok Netzwerk
 + Bugfixes

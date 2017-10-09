@@ -1,4 +1,9 @@
 ################-----Change Log Server_Manager Programm----#################
+Realease beta Komponente(Server_Manager) Vs: 002.002
++ IP Bug gefixt
++ Loginsystem fix
++ Schnellantwort im Massager
+
 Realease beta Komponente(Server_Manager) Vs: 002.001
 + Server einstellungen Bugfixes
 + Server Einstellungen Grafik Update

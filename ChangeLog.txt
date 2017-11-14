@@ -1,4 +1,27 @@
 ################-----Change Log Server_Manager Programm----#################
+Realease beta Komponente(Server_Manager) Vs: 002.003
++ Serverinterface überarbeitete Plugin-liste
++ Serverinterface Welten-Manager
++ Serverinterface Start-Bugs behoben
++ Massager System fix
++ Neuer Server Ersteller Task
+
+Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.001
++ Stellt neue Versionen 1.12.1 und 1.12.2 bereit
+
+Realease Alpha Komponente(Anwendungserweiterungen) Vs: 001.001
++ Neue Funktionen zur Informationsbeschaffung einer Mc-Welt
+
+Realease Alpha Komponente(ForgeModServer) Vs: 001.001
++ Neue Dateienbeschaffung Für FML_Libs
+
+Realease beta Komponente(offlinepacket) Vs: 001.001
++ Überarbeiteter Installer für Offlinepackete
+
+Realease beta Komponente(Fehlersuche) Vs: 001.001
++ Überarbeitetes Design der Fehlersuche
++ Neuer Such-algorithmus
+
 Realease beta Komponente(Server_Manager) Vs: 002.002
 + IP Bug gefixt
 + Loginsystem fix

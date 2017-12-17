@@ -1,4 +1,12 @@
 ################-----Change Log Server_Manager Programm----#################
+Realease beta Komponente(Server_Manager) Vs: 002.004
++ Server Ersteller Expertenmodus
++ überarbeitete Versionsauswahl
++ Server Ersteller übererarbeitetes Errorhandling 
++ Server Interface Hosting Manager mit Statusinformationen
++ Server Interface Time Event liste & Kommandozeile
++ Neuste Minecraft Versionen
+
 Realease beta Komponente(Server_Manager) Vs: 002.003
 + Serverinterface überarbeitete Plugin-liste
 + Serverinterface Welten-Manager

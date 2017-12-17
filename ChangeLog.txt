@@ -7,6 +7,9 @@ Realease beta Komponente(Server_Manager) Vs: 002.004
 + Server Interface Time Event liste & Kommandozeile
 + Neuste Minecraft Versionen
 
+Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.002
++ Stellt Versionen wie über 1.12 nun über den Sever bereit
+
 Realease beta Komponente(Server_Manager) Vs: 002.003
 + Serverinterface überarbeitete Plugin-liste
 + Serverinterface Welten-Manager

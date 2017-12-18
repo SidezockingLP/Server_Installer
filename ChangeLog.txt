@@ -4,7 +4,7 @@ Realease beta Komponente(Server_Manager) Vs: 002.004
 + überarbeitete Versionsauswahl
 + Server Ersteller übererarbeitetes Errorhandling 
 + Server Interface Hosting Manager mit Statusinformationen
-+ Server Interface Time Event liste & Kommandozeile
++ Server Interface Time Eventliste & Kommandozeile
 + Neuste Minecraft Versionen
 
 Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.002

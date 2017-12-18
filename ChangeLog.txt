@@ -2,7 +2,7 @@
 Realease beta Komponente(Server_Manager) Vs: 002.004
 + Server Ersteller Expertenmodus
 + überarbeitete Versionsauswahl
-+ Server Ersteller übererarbeitetes Errorhandling 
++ Server Ersteller übererarbeitete Fehlerkorrektur
 + Server Interface Hosting Manager mit Statusinformationen
 + Server Interface Time Eventliste & Kommandozeile
 + Neuste Minecraft Versionen

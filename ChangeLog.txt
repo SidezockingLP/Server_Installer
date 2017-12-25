@@ -1,195 +1,188 @@
-################-----Change Log Server_Manager Programm----#################
-Realease beta Komponente(Server_Manager) Vs: 002.004
+################-----Changelog des Server_Manager Programm----#################
+
+Release Beta Komponente(Server_Manager) Ver: 002.004
 + Server Ersteller Expertenmodus
-+ überarbeitete Versionsauswahl
-+ Server Ersteller übererarbeitete Fehlerkorrektur
-+ Server Interface Hosting Manager mit Statusinformationen
-+ Server Interface Time Eventliste & Kommandozeile
-+ Neuste Minecraft Versionen
++ Überarbeitete Versionsauswahl
++ Server-Ersteller überarbeitete Fehlerbehebung
++ Server-Interface Hosting-Manager mit Statusinformationen
++ Server-Interface zeitbasierte Ereignisse & Kommandozeile
 
-Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.002
-+ Stellt Versionen wie über 1.12 nun über den Sever bereit
+Release Beta Komponente(MC-System-Erweiterungen) Ver: 001.002
++ Stellt Versionen (inklusive 1.12.X) nun über den Sever bereit
 
-Realease beta Komponente(Server_Manager) Vs: 002.003
-+ Serverinterface überarbeitete Plugin-liste
-+ Serverinterface Welten-Manager
-+ Serverinterface Start-Bugs behoben
-+ Massager System fix
-+ Neuer Server Ersteller Task
+Release Beta Komponente (Server_Manager) Ver: 002.003
++ Server-Interface überarbeitete Plugin-Liste
++ Server-Interface Welten-Manager
++ Server-Interface Fehlerbehebungen
++ Messenger Fehlerbehebungen
++ Neuer Server Ersteller
 
-Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.001
+Release Beta Komponente(MC-System-Erweiterungen) Ver: 001.001
 + Stellt neue Versionen 1.12.1 und 1.12.2 bereit
 
-Realease Alpha Komponente(Anwendungserweiterungen) Vs: 001.001
-+ Neue Funktionen zur Informationsbeschaffung einer Mc-Welt
+Release Alpha Komponente(Anwendungserweiterungen) Ver: 001.001
++ Neue Funktionen zur Informationsbeschaffung einer Minecraft Welt
 
-Realease Alpha Komponente(ForgeModServer) Vs: 001.001
+Release Alpha Komponente(ForgeModServer) Ver: 001.001
 + Neue Dateienbeschaffung Für FML_Libs
 
-Realease beta Komponente(offlinepacket) Vs: 001.001
-+ Überarbeiteter Installer für Offlinepackete
+Release Beta Komponente(Offlinepaket) Ver: 001.001
++ Überarbeiteter Installer für Offlinepakete
 
-Realease beta Komponente(Fehlersuche) Vs: 001.001
+Release Beta Komponente(Fehlersuche) Ver: 001.001
 + Überarbeitetes Design der Fehlersuche
-+ Neuer Such-algorithmus
++ Verbesserte Suchfunktiion
 
-Realease beta Komponente(Server_Manager) Vs: 002.002
-+ IP Bug gefixt
-+ Loginsystem fix
-+ Schnellantwort im Massager
+Release Beta Komponente(Server_Manager) Ver: 002.002
++ IP Fehlerbehebungen
++ Loginsystem Fehlerbehebungen
++ Schnellantwort im Messenger
 
-Realease beta Komponente(Server_Manager) Vs: 002.001
-+ Server einstellungen Bugfixes
-+ Server Einstellungen Grafik Update
-+ Server Einstellungen Funktionen Update
-+ Server Icon Bugfixes
-+ Forum überarbeitet
-+ Neues Login System
-+ Kontaktfenster - Schnellkontaktmassager
+Release Beta Komponente(Server_Manager) Ver: 002.001
++ Server-Einstellungen Bugfixes
++ Server-Einstellungen Grafik Update
++ Server-Einstellungen Funktionen Update
++ Server-Icon Bugfixes
++ Verbessertes Forum
++ Überarbeitetes Loginsystem
++ Kontaktfenster - Schnellkontaktmessenger
 + Neue Serverauswahl
-+ Bugfixes
-+ Serverinterface IP anzeige und Debugsystem
++ Fehlerbehebungen
++ Die Server-IP wird nun im Serverinterface angezeigt
++ Debugsystem
 
-Realease Beta Komponente(IPConnector) Vs: 001.003
-+ Neue Benutzerführung
+Release Beta Komponente(IP Connector) Ver: 001.003
++ Neue Benutzereinführung
 + Neue Hilfestellungen und Informationsstellen
 
-Realease Beta Komponente(IPConnector) Vs: 001.002
-+ Login am ngrok Netzwerk
-+ Bugfixes
+Release Beta Komponente(IP Connector) Ver: 001.002
++ Login am Ngrok Netzwerk
++ Fehlerbehebungen
 
-Realease Beta Komponente(PermissionsExManager) Vs: 001.000
+Release Beta Komponente(PermissionsExManager) Ver: 001.000
 + Scheiben von PermissionsEX Rechteeinstellungen
 + YAML Parser
 + Chatformat
-+ Einfache Chatformat ansicht
++ Einfache Chatformat Ansicht
 + Projektformat 
 
-Realease Beta Komponente(MCSystem-Erweiterungen) Vs: 001.000
+Release Beta Komponente(MC-System-Erweiterungen) Ver: 001.000
 + Stellt Versionen wie 1.12 bereit
 
-Realease Beta Komponente(Fehlersuche) Vs: 001.000
-+ Sucht Serverfehlersuche
+Release Beta Komponente(Fehlersuche) Ver: 001.000
++ Server-Fehlersuche
 
-Realease Beta Komponente(offlinepacket) Vs: 001.000
-+ Stellt alle Server auch Offline zur Verfügung
+Release Beta Komponente(Offlinepaket) Ver: 001.000
++ Stellt alle Server auch offline zur Verfügung
 
-Realease Alpha Komponente(Hamachi) Vs: 001.000
-+ stellt ein Hamachi setup bereit
+Release Alpha Komponente(Hamachi) Ver: 001.000
++ Ein Hamachi Setup wird jetzt mitgeliefert
 
-Realease Alpha Komponente(CauldronServer) Vs: 001.000
-+ erstelle cauldronServer
+Release Alpha Komponente(Cauldron Server) Ver: 001.000
++ Du kannst jetzt Cauldron Server erstellen
 
-Realease Alpha Komponente(SFTPConnector) Vs: 001.000
-+ Verbinde dich zu einem Root Server
+Release Alpha Komponente(SFTP Connector) Ver: 001.000
++ Verbinde dich auf einen Root Server
 
-Realease Alpha Komponente(ForgeModServer) Vs: 001.000
-+ ForgeModServer erstellen
+Release Alpha Komponente(ForgeModServer) Ver: 001.000
++ Du kannst jetzt ForgeModServer erstellen
 
-Realease Alpha Komponente(Setup_daten) Vs: 001.000
-+ Systemdateien
+Release Alpha Komponente(Setup_daten) Ver: 001.000
++ Es wurden neue Systemdateien hinzugefügt
 
-Realease Alpha Komponente(Anwendungserweiterungen) Vs: 001.000
-+ Bereitstellen aller Dlls zum reibungslosen starten und stoppen auf jedem System
+Release Alpha Komponente(Anwendungserweiterungen) Ver: 001.000
++ Bereitstellen aller .dll Dateien zum reibungslosen Starten und Stoppen auf jedem System
 
-Realease Alpha Komponente(Backup_Manager) Vs: 001.000
+Release Alpha Komponente(Backup_Manager) Ver: 001.000
 + Erster Realease
 
-Realease Beta Komponente(IPConnector) Vs: 001.000
-+ automatischer Start in CMD
-+ Automatisches zuweisen einer IP
+Release Beta Komponente(IP Connector) Ver: 001.000
++ Autostart in der Windows Konsole (CMD)
++ Automatisches Zuweisen einer IP
 
-Realease StabilTestbeta Komponente(Server_Manager) Vs: 002.000
-+ Überarbeitung Forum
-+ Überarbeitung Forumseite
-+ Überarbeitung Community
-+ Überarbeitung Server Interface
-+ Überarbeitung FAQ Bereich
-+ Überarbeitung FTP Login
-+ Locales Speichern von FTP Datein
-+ Impotieren einens FTP Servers in das System
-+ Bearbeiten der dateien eines FTP Servers
-+ Wechselndes Banner
-+ Banner bewerbungen
-+ teambewerbung
-+ MCVersion 1.12
+Release stabile Test-Beta Komponente(Server_Manager) Ver: 002.000
++ Überarbeitetes Forum
++ Überarbeitete Forumseite
++ Überarbeitete Community
++ Überarbeitetes Server Interface
++ Überarbeiteten Fragen & Antworten Bereich
++ Überarbeiteten FTP Login
++ Lokales speichern von FTP Dateien
++ Importieren einens FTP Servers in das System
++ Bearbeiten der Dateien eines FTP Servers
++ Wechselndes Hintergrundbild im Server_Manager Programm
++ Werbe für ein eigenes Hintergrundbild
++ Teambewerbung
++ Minecraft Version 1.12
 + Systeminformationen
 + Server_Manager Statistiken
 + Bewertung des Server_Managers
-+ Server Templates Installieren
++ Server Vorlagen installieren
 + Bungeecord Server erstellen und einrichten
 + Spigot Server über Serverinterface startbar
-+ Server IP Connector System
++ Server-IP Komunikationssystem
 + Backup_Manager Komponente
 + Neuer Updater + Updatesystem
 + Neuer Installer
 
-Realease 2.Beta Komponente(Server_Manager) Vs: 001.011
-+ Neues Table-Design im Startmenü
+Release 2. Beta Komponente(Server_Manager) Ver: 001.011
++ Neues Design im Startmenü
 
-Realease Beta Komponente(Server_Manager) Vs: 001.010
-+ speichergrößeanzeige beim Offlinepacketinstaller
-+ Mehr Erklärungen und Hilfestellungen beim Server-Erstellen
+Release Beta Komponente(Server_Manager) Ver: 001.010
++ Speichergrößenanzeige beim Offlinepaket Installationsassistenten
++ Mehr Erklärungen und Hilfestellungen beim Servererstellen
 + Plugins zum Vorinstallieren beim Server-Erstellen   
 + Überwachung auch bei Spigot und Forge-Servern
 + Abschaffen/Grafisches ersetzen der Firstart.bat
 + Minecraft Befehlesammlung
 + Java Überprüfung
 + Server Starttutorial
-- Viele kleine bug-Fixes und Änderungen
++ Fehlerbehebungen
 
-Realease Beta Komponente(Server_Manager) Vs: 001.009
-+ Automatisch Serverfehlersuche Verbessert
-+ ForgeServer Fix + Startscripts
+Release Beta Komponente(Server_Manager) Ver: 001.009
++ Verbesserte automatische Fehlersuche
++ Forge Server Fehlerbehebungen + Startscripts
 + Server Datenbanken 
-+ Offlinepacket
++ Offlinepaket
 
-Realease Beta Komponente(Server_Manager) Vs: 001.008
-+ Serverinterface im Serverordner + Destop
+Release Beta Komponente(Server_Manager) Ver: 001.008
++ Serverinterface im Serverordner + Desktop
 + Automatisch Serverfehlersuche 
 
-Realease Beta Komponente(Server_Manager) Vs: 001.007
-+ Testergebnisse + Bug Fixes
-+ Updater Überarbeitung
+Release Beta Komponente(Server_Manager) Ver: 001.007
++ Testergebnisse
++ Fehlerbehebungen
++ Überarbeiteter Updater
 + Grafikverbesserungen
-+ News System
++ Neuigkeiten System
 
-Realease testbeta Komponente(Server_Manager) Vs: 001.006
-+ Testergebnisse + Bug Fixes
-+ Updater Überarbeitung
-+ Serverinterface Funktionen Überarbeitung
+Release Test-Beta Komponente(Server_Manager) Ver: 001.006
++ Überarbeitete Serverinterface Funktionen
 + Grafikverbesserungen
 + Updatesystem im Programm
 
-Realease testbeta Komponente(Server_Manager) Vs: 001.005
-+ Testergebnisse + Bug Fixes
-+ Updater
-+ Sicherung des Programmes gegen viren
+Release Test-Beta Komponente(Server_Manager) Ver: 001.005
++ Server_Manager Updater
++ Sicherung des Programmes gegen unerlaubten Zugriff
 
-Realease testbeta Komponente(Server_Manager) Vs: 001.004
-+ Testergebnisse + Bug Fixes
-+ Überarbeitung Forum
+Release testbeta Komponente(Server_Manager) Ver: 001.004
++ Überarbeitetes Forum
 
-Realease testbeta Komponente(Server_Manager) Vs: 001.003
-+ Testergebnisse + Bug Fixes
-+ Einstellungen Asulesen Überarbeitung
+Release testbeta Komponente(Server_Manager) Ver: 001.003
++ Überarbeitung der Auslese-Funktion
 
-Realease Buildbeta Komponente(Server_Manager) Vs: 001.002
-+ Loadingscreen
-+ Sichere registermöglichkeiten
-+ Einstellungen Speichern editor
-+ Laufscreen + News + Infos Tag
-+ Grafiküberarbeitungen
+Release Buildbeta Komponente(Server_Manager) Ver: 001.002
++ Ladebildschirm
++ Sichere Registriermöglichkeiten
++ Speichern-Editor Einstellungen
++ Grafikverbesserungen
 + Automatische Veröffentlichungen
 
-Realease Buildbeta Komponente(Server_Manager) Vs: 001.001
-
+Release Build-Beta Komponente(Server_Manager) Ver: 001.001
 + Mc-Community Forum
-+Server Einstellungen Editor
-+ Grafiküberarbeitungen
-+ Server Veröffentlichungen Editor
++ Server Einstellungs-Editor
++ Grafikverbesserungen
++ Server Veröffentlichungs-Editor
 
-Realease Buildbeta1 Komponente(Server_Manager) Vs: 001.000
-
-+Erster Realease 
-
+Release Build-Beta-1 Komponente(Server_Manager) Ver: 001.000
++ Erster Realease 

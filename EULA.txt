@@ -1,8 +1,8 @@
 </---Server_Manager-Endbenutzer-Lizensvertrag--->
 
-Aktualisiert am 14. Juli 2017 03:21
+Aktualisiert am 25. DEzember 2017 12:28
 
-WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH BEVOR SIE DIESES
+WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH, BEVOR SIE DIESES
 PROGRAMM BENUTZTEN!
 
 1. </LIZENZ>
@@ -17,7 +17,7 @@ das Programm zu installieren und zu nutzen.
 2. </SICHERHEIT>
 
 Der Herausgeber versichert, dass das Programm kosten- und
-viren-frei ist! Achten Sie daher darauf, dass das von Ihnen
+virenfrei ist! Achten Sie daher darauf, dass das von Ihnen
 heruntergeladene Programm eine offizielle/originale herausgegebene
 Version ist und keine Aenderungen durch Dritte enthaelt!
 
@@ -27,9 +27,9 @@ Dieses Programm wird als Freeware verbreitet und ist fuer private
 und geschaeftliche Nutzung freigegeben. Ihnen ist es NICHT gestattet
 Aenderungen am Programm vorzunehmen (ausser nach Ruecksprache
 mit dem Entwickler und durch eine schriftlicher Bestaetigung).
-Das Programm darf auf jeder Webseite, oder auf jede andere Weise
+Das Programm darf auf jeder Webseite oder auf jede andere Weise
 als Freeware vervielfaeltigt werden, wenn der Name und YouTube-Kanal/
-Link des/der Entwickler angegeben ist/sind!
+Link der Entwickler angegeben sind!
 
 4. </BENUTZERZUSTIMMUNG>
 
@@ -55,8 +55,8 @@ Das Veraendern oder Umschreiben des Programmes ist Ihnen nicht gestattet.
 -Forum: Alle Daten die beim Einloggen und Verwenden des Forums
 gesammelt werden, wie z.b die persoenliche E-Mail Adresse,
 werden nicht an Dritte weitergegeben und in der Datenbank
-durch bit-Verschluesselungen vor unerlaubten Angriffen geschuetzt!
--FTP/SFTP Daten: Daten die waehrend der Laufzeit des Programmes durch
+durch Bit-Verschluesselungen vor unerlaubten Angriffen geschuetzt!
+-FTP/SFTP Daten: Daten, welche waehrend der Laufzeit des Programmes durch
 das Einloggen an FTP/SFTP-Servern verwendet werden,
 werden nicht gespeichert oder weitergegeben!
 
@@ -77,21 +77,21 @@ Informationen bereitstellen!
 
 6. </UPDATES>
 
-WIR STELLEN IHNEN EINE KOPIE UNSERES PROGRAMMES
-"WIE BESEHEN" (OHNE MAENGELGEWAEHR) ZUR VERFUEGUNG. UPDATES WERDEN
-EBENFALLS "WIE BESEHEN" ZUR VERFUEGUNG GESTELLT. DAS HEISST, WIR GEBEN IHNEN
-GEGENUEBER KEINE ZUSICHERUNGEN HINSICHTLICH DES STANDARDS ODER DER
-QUALITAET UNSERES SPIELS ODER DER UNTERBRECHUNGSFREIEN NUTZUNG
-ODER FEHLERFREIHEIT DES SPIELS AB.WIR HAFTEN NICHT FUER
-VERLUSTE ODER SCHAEDEN, DIE DADURCH ENTSTEHEN KOENNEN. SIE TRAGEN
-DAS GESAMTE RISIKO FUER DIE QUALITAET UND LEISTUNG DES SPIELS.
-SIE MUESSEN AKZEPTIEREN, DASS UNSER TEAM UPDATES DEUTLICH VOR
-IHREM ABSCHLUSS HERAUSGEBENUND DAHER MOEGLICHERWEISE
-(UND OFTMALS TATSAECHLICH) FEHLER AUFWEISEN. DENNOCH GEBEN
-WIR DIESE VERSIONEN LIEBER FRUEHZEITIG HERAUS ALS SIE WARTEN ZU LASSEN,
-BIS WIR UEBER EINE FEHLERFREIE VERSION VERFUEGEN.
-WIR VERFUEGEN UEBER EINE WEBSITE,
-AUF DER SIE UNS UEBER POTENZIELLE FEHLER INFORMIEREN KOENNEN.
+Wir stellen Ihnen eine Kopie unseres Programmes
+"wie besehen" (ohne Maengelgewaehr) zur Verfuegung. Updates werden
+ebenfalls "wie besehen" zur Verfuegung gestellt. Das heißt, wir geben Ihnen
+gegenueber keine Zusicherungen hinsichtlich des Standards oder der
+Qualitaet unseres Programmes oder der unterbrechungsfreien Nutzung
+oder Fehlerfreiheit des Programmes ab. Wir haften nicht für
+Verluste oder Schaeden, die dadurch entstehen koennen. Sie tragen
+das gesamte Risiko für die Qualitaet und Leistung des Programmes.
+Sie muessen akzeptieren, dass unser Team Updates deutlich vor
+ihrem Abschluss heruageben und daher moeglicherweise
+(und oftmals tatsaechlich) Fehler aufweisen. Dennoch geben
+wir diese Versionen lieber fruehzeitig heraus als Sie warten zu lassen,
+bis wir ueber eine fehlerfreie Version verfuegen.
+Wir verfuegen ueber eine Webseite,
+auf der Sie uns ueber potenzielle Fehler informieren koennen.
 
 </ENTWICKLUNG>
 
@@ -99,3 +99,4 @@ SidezockingLP
 E-Mail: SidezockingLP@gmail.com
 Webseite: http://minecraft-servermanager.sidezockinglp.de
 Youtube-Kanal: https://www.youtube.com/channel/UCM8KoUmfoVg3VEAF2BUNq2A
+

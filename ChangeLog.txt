@@ -1,4 +1,7 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.006
++ Überarbeitet MC-Community Beiträge
+
 Release Beta Komponente(Server_Manager) Ver: 002.005
 + Überarbeitetes Forum
 

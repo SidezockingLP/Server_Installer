@@ -1,4 +1,6 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.005
++ Überarbeitetes Forum
 
 Release Beta Komponente(Server_Manager) Ver: 002.004
 + Server Ersteller Expertenmodus

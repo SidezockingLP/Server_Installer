@@ -1,4 +1,12 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.007
++ MC-Community Update
++ Login-Error Patch
++ Forumseite überarbeitet
+
+Release Beta Komponente(Fehlersuche) Ver: 001.002
++ Ignoriert latest-log
+
 Release Beta Komponente(Server_Manager) Ver: 002.006
 + Überarbeitet MC-Community Beiträge
 

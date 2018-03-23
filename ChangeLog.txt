@@ -1,4 +1,7 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.008
++ login Error Fix
+
 Release Beta Komponente(Server_Manager) Ver: 002.007
 + MC-Community Update
 + Login-Error Patch

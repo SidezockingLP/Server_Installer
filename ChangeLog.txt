@@ -1,4 +1,20 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.010
++ Update Server Listen
++ Nachrichten Fix im Massager
++ Server Ersteller BugFix
++ Community Lade Fix
++ Serverinterface DebugLogin umstellung
+
+Release Beta Komponente(Fehlersuche) Ver: 001.003
++ Anpassung von Fehler Nachrichten
+
+Release Beta Komponente(IPConnector) Ver: 001.004
++ Neue Anleitung zum erstellen von Accounts
+
+Release Beta Komponente(Sounds) Ver: 001.002
++ Amboss Lautstärke reduziert
+
 Release Beta Komponente(Server_Manager) Ver: 002.009
 + Browser für display
 + Java System anpassungen

@@ -1,4 +1,8 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.011
++ Java 8 intigration
++ Server Ersteller BugFix
+
 Release Beta Komponente(Server_Manager) Ver: 002.010
 + Update Server Listen
 + Nachrichten Fix im Massager

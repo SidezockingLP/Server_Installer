@@ -1,4 +1,7 @@
 ################-----Changelog des Server_Manager Programm----#################
+Release Beta Komponente(Server_Manager) Ver: 002.012
++ FTP Server Update
+
 Release Beta Komponente(Server_Manager) Ver: 002.011
 + Java 8 intigration
 + Server Ersteller BugFix
